@@ -8,7 +8,7 @@ const Sidebar = () => {
   return (
     <>
       {isMenuOpen && (
-        <div className="w-80 m-2">
+        <div className="w-1/5 m-2 text-center">
           <ul>
             <li className="hover:bg-gray-100 rounded-lg p-2">
               <Link to="/">Home</Link>

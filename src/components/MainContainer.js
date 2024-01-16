@@ -3,7 +3,7 @@ import VideoContainer from "./VideoContainer";
 
 const MainContainer = () => {
   return (
-    <div className="p-2">
+    <div className="w-4/5 p-2">
       <VideoContainer />
     </div>
   );
